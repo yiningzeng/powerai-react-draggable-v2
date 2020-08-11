@@ -1,5 +1,7 @@
 # powerai-react-draggable-v2
 
+## 说明，这里主要改了build/cjs/DraggableCore.js下的 [右键点击](https://github.com/yiningzeng/powerai-react-draggable-v2/blob/master/build/cjs/DraggableCore.js#L153)，然后直接npm publish提交上去
+
 [![TravisCI Build Status](https://api.travis-ci.org/STRML/powerai-react-draggable-v2.svg?branch=master)](https://travis-ci.org/strml/powerai-react-draggable-v2)
 [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/project/strml/powerai-react-draggable-v2)
 [![npm downloads](https://img.shields.io/npm/dt/powerai-react-draggable-v2.svg?maxAge=2592000)](http://npmjs.com/package/powerai-react-draggable-v2)
